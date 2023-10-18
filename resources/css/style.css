@@ -5,11 +5,25 @@ h1 {
     color:red;
     text-align: center;
     text-decoration: underline; 
+    font-style: oblique;
+}
+
+h2 {
+
+font-size: 2rem;
+font-weight: 500;
+text-decoration: underline;
+
 }
 
 p{
     background-color: rgb(255, 158, 158);
-    color:rgb(0, 0, 0)
+    color:rgb(0, 0, 0); 
+}
+
+li{
+background-color:rgb(255, 151, 169);
+
 }
 
 
