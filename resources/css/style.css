@@ -1,1 +1,14 @@
 *{background-color:pink;}
+
+h1 {
+    font-size: 3rem;
+    color:red;
+}
+
+p{
+    background-color: rgb(255, 158, 158);
+    color:rgb(0, 0, 0)
+}
+
+
+
